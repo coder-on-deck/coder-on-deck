@@ -1,4 +1,4 @@
 # coder-on-deck
 
 
-![Coder On Deck](logo.png)
+![Coder On Deck](Logo.png)
