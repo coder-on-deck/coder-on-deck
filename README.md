@@ -14,6 +14,9 @@ Ideas:
 
  - [ ] Awesome list website where people can vote up/down. 
    - You can use reverse-dl to spread updates
+ - [ ] A completely anonymous publishing website. No identifying details needed to publish.
+ - [ ] Cheat sheet based on markdown
+   - With a chrome extension. Give it a link and it will render a markdown.
    
  
  
